@@ -74,8 +74,8 @@
 				CF03C3BE1C571C880073890F /* View Controller */,
 				CF03C3BB1C571C170073890F /* Views */,
 				CF03C3A71C570CDB0073890F /* AppDelegate.swift */,
-				CF03C3AB1C570CDB0073890F /* Main.storyboard */,
 				CF03C3AE1C570CDB0073890F /* Assets.xcassets */,
+				CF03C3AB1C570CDB0073890F /* Main.storyboard */,
 				CF03C3B01C570CDB0073890F /* LaunchScreen.storyboard */,
 				CF03C3B31C570CDB0073890F /* Info.plist */,
 			);

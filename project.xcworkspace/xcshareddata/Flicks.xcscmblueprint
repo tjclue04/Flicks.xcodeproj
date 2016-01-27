@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A21DD4119A68A5C5BEA9DB0E9C6247F2F35D4FD7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A21DD4119A68A5C5BEA9DB0E9C6247F2F35D4FD7" : 0,
+    "1499E9F2DBF5076DE7E14E214B8BA365A9053390" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B5B77751-8B97-49FB-9072-0B30AFC3F32C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A21DD4119A68A5C5BEA9DB0E9C6247F2F35D4FD7" : "Flicks.xcodeproj\/",
+    "1499E9F2DBF5076DE7E14E214B8BA365A9053390" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : ".",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : ".",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tjclue04\/flicks",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1499E9F2DBF5076DE7E14E214B8BA365A9053390"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tjclue04\/Flicks.xcodeproj.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A21DD4119A68A5C5BEA9DB0E9C6247F2F35D4FD7"
+    }
+  ]
+}
