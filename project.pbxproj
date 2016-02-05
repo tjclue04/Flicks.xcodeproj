@@ -14,6 +14,7 @@
 		CF03C3B21C570CDB0073890F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF03C3B01C570CDB0073890F /* LaunchScreen.storyboard */; };
 		CF03C3BA1C570D540073890F /* MoviesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF03C3B91C570D540073890F /* MoviesViewController.swift */; };
 		CF03C3BD1C571C6E0073890F /* MovieCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF03C3BC1C571C6E0073890F /* MovieCell.swift */; };
+		CF2700071C640A0A00B85EC1 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF2700061C640A0A00B85EC1 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		CF03C3B31C570CDB0073890F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CF03C3B91C570D540073890F /* MoviesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MoviesViewController.swift; sourceTree = "<group>"; };
 		CF03C3BC1C571C6E0073890F /* MovieCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MovieCell.swift; sourceTree = "<group>"; };
+		CF2700061C640A0A00B85EC1 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 			isa = PBXGroup;
 			children = (
 				CF03C3B91C570D540073890F /* MoviesViewController.swift */,
+				CF2700061C640A0A00B85EC1 /* DetailViewController.swift */,
 			);
 			name = "View Controller";
 			sourceTree = "<group>";
@@ -233,6 +236,7 @@
 				CF03C3A81C570CDB0073890F /* AppDelegate.swift in Sources */,
 				CF03C3BA1C570D540073890F /* MoviesViewController.swift in Sources */,
 				CF03C3BD1C571C6E0073890F /* MovieCell.swift in Sources */,
+				CF2700071C640A0A00B85EC1 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
